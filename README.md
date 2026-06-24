@@ -20,7 +20,7 @@ to recruit hosts fast enough to meet demand surges.
 ## 📁 Repository Structure
 ```
 ├── notebooks/        Python EDA & data cleaning notebook
-├── data/             Raw and cleaned datasets
+├── data/             Cleaned dataset (raw data not included due to size)
 ├── dashboards/       Power BI .pbix file + dashboard screenshots
 ├── report/           Full project report (Word + PDF)
 ├── presentation/     Final presentation slides
